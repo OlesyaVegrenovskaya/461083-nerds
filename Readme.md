@@ -1,7 +1,7 @@
-# Личный проект «Нёрдс»
+﻿# Личный проект «Нёрдс»
 
 * Студент: [Olesya Vegrenovskaya](https://up.htmlacademy.ru/htmlcss/18/user/461083).
-* Наставник: `Неизвестно`.
+* Наставник:[Максим Конов] (https://htmlacademy.ru/profile/id206795).
 
 ---
 
