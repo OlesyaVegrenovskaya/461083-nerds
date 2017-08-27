@@ -16,7 +16,8 @@
 		   <li> <a href="contacts.html">Контакты </a></li>
          </ul>
          <ul class="basket-navigation">
-           <li class="basket-link"> Корзина </li>	 
+           <li class="basket-link"> 
+           <a class="basket-link" href="basket.html"> Корзина </a> </li>	 
          </ul>
     </nav>
    </header>
@@ -28,27 +29,39 @@
 	  <fieldset>
 	          <legend> Стоимость </legend>
 			  <ul> 
-			   <li> oт <input type="number">  </li>
-			   <li> до <input type="number">  </li>
+			   <li> <label for="price-from"> oт </label> <input type="number" id="price-from">  </li>
+			   <li> <label for="price-for"> до </label> <input type="number" id="price-for">  </li>
 			  </ul>
 			     
 	  </fieldset>
 	  <fieldset>
 		    <legend> Сетка</legend>
 			<ul>
-			 <li class="field-options"> <input class=" visually-hidden filter-input filter-input-radio" type="radio" name="product-group" value="adapt">Адаптивная</li>
-			 <li class="field-options"> <input class=" visually-hidden filter-input filter-input-radio" type="radio" name="product-group" value="fix">Фиксированная</li>
-			 <li class="field-options"> <input class=" visually-hidden filter-input filter-input-radio" type="radio" name="product-group" value="rub">Резиновая</li>
+			 <li class="field-options"> <input class=" visually-hidden filter-input filter-input-radio" type="radio" name="product-group" id="grid-adapt" value="adapt"> 
+                                                   <label for="grid-adapt"> Адаптивная </label> 
+                         </li>
+			 <li class="field-options"> <input class=" visually-hidden filter-input filter-input-radio" type="radio" name="product-group" id="grid-fix" value="fix">
+                                                   <label for="grid-fix"> Фиксированная </label> </li>
+			 <li class="field-options"> <input class=" visually-hidden filter-input filter-input-radio" type="radio" name="product-group" value="rub" id="grid-rub">
+                                                    <label for="grid-rub"> Резиновая </label> </li>
 			</ul> 
 	  </fieldset>
 	  <fieldset>
 		   <legend> Особенности </legend>
 		   <ul>
-		       <li class="field-options"> <input class=" visually-hidden filter-input filter-input-checkbox" type="checkbox" name="slider" checked>  Слайдер </li>
-		       <li class="field-options"> <input class=" visually-hidden filter-input filter-input-checkbox" type="checkbox" name="advantage"> Блок преимуществ </li>
-			   <li class="field-options"> <input class=" visually-hidden filter-input filter-input-checkbox" type="checkbox" name="news" checked> Новости </li>
-			   <li class="field-options"> <input class=" visually-hidden filter-input filter-input-checkbox" type="checkbox" name="gallery"> Галерея </li>
-			   <li class="field-options"> <input class=" visually-hidden filter-input filter-input-checkbox" type="checkbox" name="basket"> Корзина </li>
+		       <li class="field-options"> <input class=" visually-hidden filter-input filter-input-checkbox" type="checkbox" name="slider" id="features-slider" checked>
+                       <label for="features-slider"> Слайдер </label>
+                       </li>
+		       <li class="field-options"> <input class=" visually-hidden filter-input filter-input-checkbox" type="checkbox" name="advantage" id="features-advantage"> 
+                       <label for="features-advantage"> Блок преимуществ  </label>
+                       </li>
+		       <li class="field-options"> <input class=" visually-hidden filter-input filter-input-checkbox" type="checkbox" name="news" id="features-news" checked> 
+                       <label for="features-news"> Новости </label> </li>
+		       <li class="field-options"> <input class=" visually-hidden filter-input filter-input-checkbox" type="checkbox" name="gallery" id="features-gallery"> 
+                       <label for="features-gallery"> Галерея  </label>
+                       </li>
+		       <li class="field-options"> <input class=" visually-hidden filter-input filter-input-checkbox" type="checkbox" name="basket" id="features-basket">
+                       <label for="features-basket"> Корзина </label> </li>
 		   </ul>
 	  </fieldset>
 	  <button type="submit" class=" filter-button button"> Показать </button>
@@ -66,12 +79,12 @@
 	  <div class="template">
 	  <h2 class="visually-hidden"> Шаблоны </h2>
 	  <ul class="template-list"> 
-	     <li> <img src="img/img-sedona.jpg" width=360 height=576 alt="Cедона"> </li>
-		   <li> <img src="img/img-pink.jpg" width=360 height=576 alt="Пинк"> </li>
-	  	 <li> <img src="img/img-barbershop.jpg" width=360 height=576 alt="Пинк"> </li>
-		   <li> <img src="img/img-mishka.jpg" width=360 height=576 alt="Мишка"> </li>
-		   <li> <img src="img/img-aplus.jpg" width=360 height=576 alt="Учеба"> </li>
-	  	 <li> <img src="img/img-kvast.jpg" width=360 height=576 alt="Квас"> </li>
+	     <li> <a href="sedona.html"> <img src="img/img-sedona.jpg" width=360 height=576 alt="Cедона"> </a> </li>
+	     <li> <a href="pink.html"> <img src="img/img-pink.jpg" width=360 height=576 alt="Пинк"> </a> </li>
+	     <li> <a href="barbershop.html"> <img src="img/img-barbershop.jpg" width=360 height=576 alt="Бербершоп"> </a> </li>
+	     <li> <a href="mishka.html"> <img src="img/img-mishka.jpg" width=360 height=576 alt="Мишка"> </a> </li>
+	     <li> <a href="studies.html"> <img src="img/img-aplus.jpg" width=360 height=576 alt="Учеба"> </a> </li>
+	     <li> <a href="Kvast.html"> <img src="img/img-kvast.jpg" width=360 height=576 alt="Квас"> </a> </li>
 	  </ul>
        </div>	  
 	  </section>
@@ -83,7 +96,7 @@
 	  </ul> 
 </main>
 <footer class="main-footer">
-  <img src="img/Слой 2.png" alt="Карта">
+  <img src="img/Слой 2.png" alt="191186, Санкт-Петербург ул.Б.Конюшенная. д. 19/8">
   <div class="footer-contacts">
   <p class="contacts">
 	NЁRDS DESIGN STUDIO <br>
