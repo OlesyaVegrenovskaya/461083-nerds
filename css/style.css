@@ -90,8 +90,32 @@ a {
              color: #959595;
              background-focus: #d5d5d5;
 }  
+.pagination-item-current{
+                color: #000000;
+                font-size: 16px;
+                line-height: 18px;
+                border-color: #eeeeee;
+  
+                backgroud-color: #ffffff;
+}
+.pagination-item a { 
+                 font-size: 16px;
+                 line-height: 18px;
+                 color: #000000;
+                 text-transform: uppercase;
+                
+                 backgroud-color: #eeeeee;
+}
+.pagination-item a:hover {
+                 backgroud-color: #dfdfdf;
+}
+.pagination-item a:focus {
+                 color: #959595;
+                 backgroud-color: #d5d5d5;
+}               
 .presentation {
              list-style: none;
+             font-size: 55px;
 }
 .main-container {
                  font-size: 55px;
