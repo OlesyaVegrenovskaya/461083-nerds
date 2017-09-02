@@ -57,16 +57,16 @@ a {
              color:#000000;
              text-transform: uppercase;
 }
-.template-sorting {
+.template-sorting a {
              font-size: 14px;
              line-height: 18px;
              color:#c1c1c1;
              text-transform: uppercase;
 }
-.template-sorting:hover {
+.template-sorting a:hover {
               color: #666666;
 }
-.template-sorting:focus {
+.template-sorting a:focus {
               color: #000000;
 }
 .field-options { 
