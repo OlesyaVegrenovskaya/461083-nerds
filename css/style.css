@@ -14,8 +14,27 @@ a { text-decoration: none;
                    color: #000000;
   
                    background-color: #eeeeee;
-  
+  }
+.sait-navigation 
+.basket-navigation {
+                   list-style: none;
 }
+.sait-navigation 
+.basket-navigation {
+                   color: #000000;
+}
+.sait-navigation: hover
+.basket-navigation: hover {
+                    color: #fb565a;
+}
+.sait-navigation: hover
+.basket-navigation: hover {
+                    color: #fb565a;
+}
+.sait-navigation: focus
+.basket-navigation: focus {
+                    color: 
+
 h1.main-market { font-size: 55px;
       line-height: 55px;
       color:#000000;
