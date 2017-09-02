@@ -191,7 +191,11 @@ a {
          color: #000000;
          font-weight:900;
 }
-.footer-text {
+.footer-text { 
+         font-size: 36px;
+         line-height: 36px;
+         color: #444444;
+}
         
   
   
