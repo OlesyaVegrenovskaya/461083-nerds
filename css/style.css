@@ -39,10 +39,12 @@ a { text-decoration: none;
                   line-height: 55px;
                   color:#000000;
                   font-weight: bold;
+                  text-align: right;
 }
 .main-container-text { font-size: 16px;
                        line-height: 24px;
                        color:#000000;
+                       text-align: right;
 }
 
 h1.main-market { font-size: 55px;
