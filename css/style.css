@@ -19,8 +19,8 @@ a { text-decoration: none;
 .basket-navigation {
                    list-style: none;
 }
-.sait-navigation 
-.basket-navigation {
+.sait-navigation a 
+.basket-navigation a {
                    color: #000000;
 }
 .sait-navigation:hover
