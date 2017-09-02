@@ -15,21 +15,21 @@ a { text-decoration: none;
   
                    background-color: #eeeeee;
   }
-.sait-navigation 
+.sait-navigation, 
 .basket-navigation {
                    list-style: none;
 }
-.sait-navigation a 
+.sait-navigation a, 
 .basket-navigation a {
                    color: #000000;
 }
-.sait-navigation:hover
-.basket-navigation:hover {
+.sait-navigation a:hover,
+.basket-navigation a:hover {
                     color: #fb565a;
 }
 
-.sait-navigation:focus
-.basket-navigation:focus {
+.sait-navigation a:focus,
+.basket-navigation a:focus {
                     color: #bababa;
 }
 
