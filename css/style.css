@@ -38,7 +38,7 @@ a { text-decoration: none;
 .main-container { font-size: 55px;
                   line-height: 55px;
                   color:#000000;
-                  font-weight: bold;
+                  font-weight: 900;
                   text-align: right;
 }
 .main-container-text { font-size: 16px;
