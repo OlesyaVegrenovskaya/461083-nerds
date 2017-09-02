@@ -32,6 +32,17 @@ a { text-decoration: none;
 .basket-navigation a:focus {
                     color: #bababa;
 }
+.presentation {
+  list-style: none;
+}
+.main-container { font-size: 55px;
+                  line-height: 55px;
+                  color:#000000;
+}
+.main-container-text { font-size: 16px;
+                       line-height: 24px;
+                       color:#000000;
+}
 
 h1.main-market { font-size: 55px;
       line-height: 55px;
