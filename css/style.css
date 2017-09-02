@@ -35,6 +35,42 @@ a {
 .basket-navigation a:focus {
                     color: #bababa;
 }
+.sait-current {
+            text-decoration: underline;
+}
+.main-market { 
+             font-size: 55px;
+             line-height: 55px;
+             color:#000000;
+}
+.filter-grid,
+.filter-features,
+.filter-sorting {
+             font-size: 18px;
+             line-height: 30px;
+             color:#000000;
+             text-transform: uppercase;
+}
+.template-current {
+             font-size: 14px;
+             line-height: 18px;
+             color:#000000;
+             text-transform: uppercase;
+}
+.template-sorting {
+             font-size: 14px;
+             line-height: 18px;
+             color:#c1c1c1;
+             text-transform: uppercase;
+}
+}
+.field-options { 
+             font-size: 16px;
+             line-height: 20px;
+             color:#283136;
+}
+
+  
 .presentation {
              list-style: none;
 }
