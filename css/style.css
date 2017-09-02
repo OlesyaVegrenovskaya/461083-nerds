@@ -41,6 +41,7 @@ a { text-decoration: none;
 }
 .main-container-text { font-size: 16px;
                        line-height: 24px;
+                       font-weight: 700;
                        color:#000000;
 }
 
