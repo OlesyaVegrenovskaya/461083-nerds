@@ -24,11 +24,11 @@
    </header>
    <main class="market">
    <h1 class="main-market"> Магазин готовых шаблонов </h1>
-    <section class="filtres"> 
-	  <h2 class="visually-hidden"> Фильтр </h2>
+   <section class="filtres"> 
+	 <h2 class="visually-hidden"> Фильтр </h2>
 	  <form class="filter" method ="get" action=" https://echo.htmlacademy.ru">  
 	  <fieldset>
-	          <legend> Стоимость </legend>
+	          <legend class="filter-price"> Стоимость </legend>
             <input type="range" min="0" max="15 000" step="1">
 			  <ul> 
 			   <li> <label for="price-from"> oт </label> <input type="number" id="price-from" value="0">  </li>
@@ -37,7 +37,7 @@
 			     
 	  </fieldset>
 	  <fieldset>
-		    <legend> Сетка</legend>
+		    <legend class="filter-grid"> Сетка</legend>
 			<ul>
 			 <li class="field-options"> <input class=" visually-hidden filter-input filter-input-radio" type="radio" name="product-group" id="grid-adapt" value="adapt"> 
                                                    <label for="grid-adapt"> Адаптивная </label> 
@@ -49,7 +49,7 @@
 			</ul> 
 	  </fieldset>
 	  <fieldset>
-		   <legend> Особенности </legend>
+		   <legend class="filter-features"> Особенности </legend>
 		   <ul>
 		       <li class="field-options"> <input class=" visually-hidden filter-input filter-input-checkbox" type="checkbox" name="slider" id="features-slider" checked>
                        <label for="features-slider"> Слайдер </label>
@@ -72,7 +72,7 @@
 	  <section class="template-main">
 	  <div class="sorting">
       <fieldset>
-	  <legend> Сортировать:</legend>
+	  <legend class="filter-sorting"> Сортировать:</legend>
 	   <ul>
      	   <li class="template-current"> по цене </li>
 		   <li class="template-sorting"> <a href="type.html">по типу </a></li>
