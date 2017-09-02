@@ -121,12 +121,12 @@ a {
   
                       background-color: #efc84a;
 }
-.advantage-presentation button :hover {
+.advantage-presentation button:hover {
                                     color: #ffffff;
                             
                                     background-color: #eab534;
 }
-.advantage-presentation button :focus {
+.advantage-presentation button:focus {
                                     color: #edc265;
                             
                                     background-color: #e5a722;
