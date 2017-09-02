@@ -83,6 +83,16 @@ a {
   
                       background-color: #fb565a;
 }
+.advantage-sites botton:hover {
+                            color: #ffffff;
+                            
+                            background-color: #e74246;
+} 
+.advantage-sites botton:focus {
+                            color: #e37376;
+                            
+                            background-color: #d7373b;
+} 
 .advantage-apps botton {
                       font-size: 16px;
                       line-height: 24px;
@@ -92,6 +102,17 @@ a {
                       background-color: #00ca74;
   
 }
+.advantage-apps botton:hover {
+                           color: #ffffff;
+                            
+                            background-color: #00bc6c;
+}
+.advantage-apps botton:focus {
+                           color: #38bd84;
+                            
+                            background-color: #00aa62;
+}
+
 .advantage-presentation botton {
                       font-size: 16px;
                       line-height: 24px;
@@ -100,12 +121,16 @@ a {
   
                       background-color: #efc84a;
 }
-.advantage-sites botton:hover {
-                            color: #ffffff;
+.advantage-presentation botton :hover {
+                                    color: #ffffff;
                             
-                            background-color: #e74246;
-  
-                
+                                    background-color: #eab534;
+}
+.advantage-presentation botton :focus {
+                                    color: #edc265;
+                            
+                                    background-color: #e5a722;
+}  
   
   
          
