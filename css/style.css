@@ -167,6 +167,25 @@ a {
                    line-height: 18px;
                    color: #000000;
 }
+.name { 
+       font-size: 18px;
+       line-height: 30px;
+       color: #000000;
+       font-weight:900;
+}
+.adress {
+       font-size: 16px;
+       line-height: 18px;
+       color: #666666;
+}
+.button a {
+       font-size: 16px;
+       line-height: 18px;
+       color: #ffffff;
+     
+       background-color: #fb565a;
+}
+  
   
          
 
