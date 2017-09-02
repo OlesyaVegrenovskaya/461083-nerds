@@ -53,9 +53,18 @@ a { text-decoration: none;
                       line-height: 18px;
                       color:#ffffff;
   
-                      background-color: red;
+                      background-color: #fb565a;
 }
-  
+.main-presentation a:hover { 
+                      color:#ffffff;
+                        
+                      background-color: #e74246;
+}
+  .main-presentation a:focus { 
+                      color:#e37376;
+                        
+                      background-color: #d7373b;
+}
   
          
 
