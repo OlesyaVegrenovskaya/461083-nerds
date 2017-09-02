@@ -90,7 +90,7 @@ a {
              color: #959595;
              background-focus: #d5d5d5;
 }  
-.pagination-item-current{
+.pagination-item-current a{
                 color: #000000;
                 font-size: 16px;
                 line-height: 18px;
