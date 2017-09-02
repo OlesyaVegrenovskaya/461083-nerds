@@ -83,8 +83,13 @@ a {
   
               background-color: #eeeeee;
 }
-
-  
+.filter-button:hover {
+             background-color: #dfdfdf;
+} 
+.filter-button:focus {
+             color: #959595;
+             background-focus: #d5d5d5;
+}  
 .presentation {
              list-style: none;
 }
