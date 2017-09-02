@@ -150,11 +150,11 @@ a {
               
                   text-transform: uppercase;
 }
-.description-percent {
+.description-percent b {
                    font-size: 45px;
                    line-height: 10.06px;
                    color: #000000;
-                   font-weight:700;
+                   font-weight:900;
 }
                    
   
