@@ -131,7 +131,19 @@ a {
                             
                                     background-color: #e5a722;
 }  
-  
+.main-description { 
+                 font-size: 45px;
+                 line-height: 45px;
+                 color: #000000;
+                 font-weight:900;
+}
+.description-service {
+                  font-size: 16px;
+                  line-height: 24px;
+                  color: #000000;
+                  text-transform: uppercase;
+}
+
   
          
 
