@@ -74,6 +74,15 @@ a {
              line-height: 20px;
              color:#283136;
 }
+.filter-button { 
+              font-size: 16px;
+              line-height: 20px;
+              color:#000000;
+              font-weight: 900;
+              text-transform: uppercase;
+  
+              background-color: #eeeeee;
+}
 
   
 .presentation {
