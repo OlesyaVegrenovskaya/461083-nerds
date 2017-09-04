@@ -281,7 +281,7 @@ a {
 .main-navigation {
   display: flex;
  /*----Временно для сеток----*/
-          min-height: 114px;
+          min-height: 1407px;
 }
 .main-navigation-logo {
   widht: 160px;
