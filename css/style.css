@@ -272,6 +272,53 @@ a {
          line-height: 22px;
          color: #444444;
 }
+/*----Сеточные стили----*/
+.main-header {
+          margin-botton : 80px;
+ /*----Временно для сеток----*/
+          min-height: 545px;
+}
+.main-navigation {
+  display: flex;
+ /*----Временно для сеток----*/
+          min-height: 545px;
+}
+.main-navigation-logo {
+  widht: 160px;
+  height: 65px;
+  /*----Временно для сеток----*/
+} 
+.site-navigation {
+  widht: 560px;
+  margin: 0;
+  padding: 0;
+  
+  list-style: none;
+  /*----Временно для сеток----*/
+  min-height: 114px;
+}
+.user-navigation {
+  widht: 180px;
+  margin: 0;
+  padding: 0;
+  
+  list-style: none;
+  /*----Временно для сеток----*/
+  min-height: 114px;
+}
+.presentation {
+  margin: 0;
+  padding: 0;
+  
+  list-style: none;
+  /*----Временно для сеток----*/
+  min-height: 431px;
+}
+  
+
+
+  
+  
         
   
   
