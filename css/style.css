@@ -286,14 +286,14 @@ a {
           min-height: 132px;
 }
 .main-navigation-logo {
-  widht: 160px;
+  width: 160px;
   height: 65px;
   display:block;
   /*----Временно для сеток----*/
 } 
   
 .sait-navigation {
-  widht: 560px;
+  width: 560px;
   margin: 0;
   padding: 0;
   
@@ -302,7 +302,7 @@ a {
   min-height: 114px;
 }
 .basket-navigation {
-  widht: 180px;
+  width: 180px;
   margin: 0;
   padding: 0;
   
