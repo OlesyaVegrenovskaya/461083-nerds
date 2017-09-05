@@ -323,7 +323,7 @@ a {
   
   list-style: none;
   /*----Временно для сеток----*/
-  min-height: 431px;
+  min-height: 418px;
 }
 .container { 
   width: 1160px;
@@ -336,6 +336,10 @@ a {
 .hardkor {
   display:none;
 }
+.presentation-design {
+  display: flex;
+}
+  
 
   
 
