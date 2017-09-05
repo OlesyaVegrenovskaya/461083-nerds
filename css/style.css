@@ -292,6 +292,7 @@ a {
 } 
   
 .sait-navigation {
+  display: flex;
   width: 560px;
   margin: 0;
   padding: 0;
