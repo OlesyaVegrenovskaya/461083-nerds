@@ -338,7 +338,17 @@ a {
 }
 .presentation-design {
   display: flex;
+  justify-content: space-between;
 }
+.presentation-mathematics {
+  display: flex;
+  justify-content: space-between;
+}
+.hardkor {
+  display: flex;
+  justify-content: space-between;
+}
+  
 .main-container {
   width: 376px;
   height: 65px;
@@ -356,6 +366,7 @@ a {
   height: 431px;
 }
 
+  
   
   
 
