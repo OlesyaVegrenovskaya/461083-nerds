@@ -371,6 +371,7 @@ padding: 0;
 .main-advantage {
   display: flex;
   justify-content: space-between;
+  margin: 20px 80px;
 }
   
 
