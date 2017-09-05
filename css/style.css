@@ -272,6 +272,9 @@ a {
          line-height: 22px;
          color: #444444;
 }
+.visually-hidden {
+          display: none;
+}
 /*----Сеточные стили----*/
 .main-header {
           margin-botton : 80px;
