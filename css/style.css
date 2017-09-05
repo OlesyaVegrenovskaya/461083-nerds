@@ -339,6 +339,24 @@ a {
 .presentation-design {
   display: flex;
 }
+.main-container {
+  width: 376px;
+  height: 65px;
+  margin-left: 20;
+}
+.main-container-text {
+  width: 361px;
+  height: 40px;
+  margin-left: 20;
+}
+.information-button {
+  width: 240px;
+  height: 50px;
+  margin-left: 20;
+}
+  
+  
+
   
 
   
