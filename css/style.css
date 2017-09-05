@@ -277,26 +277,20 @@ a {
 }
 /*----Сеточные стили----*/
 .main-header {
-          margin-botton : 80px;
+           
  /*----Временно для сеток----*/
-          min-height: 1407px;
+          min-height: 547px;
 }
 .main-navigation {
   display: flex;
  /*----Временно для сеток----*/
-          min-height: 1407px;
+          min-height: 132px;
 }
 .main-navigation-logo {
   widht: 160px;
   height: 65px;
   /*----Временно для сеток----*/
 } 
-.main-container {
-  display: flex;
-  widht: 860;
-   /*----Временно для сеток----*/
-  min-height: 114px;
-}
   
 .site-navigation {
   widht: 560px;
