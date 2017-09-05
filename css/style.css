@@ -331,6 +331,9 @@ a {
   pading: 0 20px;
 }
 .presentation-mathematics,
+ {
+  display:none;
+}
 .hardkor {
   display:none;
 }
