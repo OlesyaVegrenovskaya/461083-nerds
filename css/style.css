@@ -289,11 +289,11 @@ a {
 .main-navigation-logo {
   widht: 160px;
   height: 65px;
+  display:block;
   /*----Временно для сеток----*/
 } 
   
 .site-navigation {
-  display: flex;
   widht: 560px;
   margin: 0;
   padding: 0;
@@ -312,7 +312,6 @@ a {
   min-height: 114px;
 }
 .presentation {
-  float:left;
   margin: 0;
   padding: 0;
   
