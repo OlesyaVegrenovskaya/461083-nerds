@@ -330,8 +330,7 @@ a {
   margin: 0 auto;
   pading: 0 20px;
 }
-.presentation-mathematics,
- {
+.presentation-mathematics {
   display:none;
 }
 .hardkor {
