@@ -318,7 +318,11 @@ a {
   /*----Временно для сеток----*/
   min-height: 431px;
 }
-
+.container { 
+  width: 1160px;
+  margin: 0 auto;
+  pading: 0 20px;
+}
   
 
   
