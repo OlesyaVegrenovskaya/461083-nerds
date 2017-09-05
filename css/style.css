@@ -317,6 +317,7 @@ a {
   min-height: 114px;
 }
 .presentation {
+  float:left;
   margin: 0;
   padding: 0;
   
