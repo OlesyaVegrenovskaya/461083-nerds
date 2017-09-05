@@ -21,7 +21,8 @@ a {
   }
 .sait-navigation, 
 .basket-navigation {
-                   list-style: none;
+  text-transform: uppercase;
+  list-style: none;
 }
 .sait-navigation a, 
 .basket-navigation a {
@@ -362,6 +363,10 @@ a {
 .image {
   width: 708px;
   height: 414px;
+}
+.main-presentation {
+margin: 0;
+padding: 0;
 }
 
   
