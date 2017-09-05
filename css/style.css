@@ -277,13 +277,11 @@ a {
 }
 /*----Сеточные стили----*/
 .main-header {
-  display: flex;
-           
  /*----Временно для сеток----*/
           min-height: 547px;
 }
 .main-navigation {
-  
+  display: flex;
  /*----Временно для сеток----*/
           min-height: 547px;
 }
