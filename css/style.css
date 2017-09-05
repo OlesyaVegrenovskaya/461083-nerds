@@ -287,8 +287,7 @@ a {
 }
 .main-navigation-logo {
   width: 160px;
-  height: 65px;
-  display:block;
+  height: 65px; 
   /*----Временно для сеток----*/
 } 
   
