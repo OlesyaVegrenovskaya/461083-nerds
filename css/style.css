@@ -320,7 +320,7 @@ a {
 .presentation {
   margin: 0;
   padding: 0;
-  
+  width: 1160px;
   list-style: none;
   /*----Временно для сеток----*/
   min-height: 418px;
@@ -330,12 +330,6 @@ a {
   margin: 0 auto;
   pading: 0 20px;
 }
-.presentation-mathematics {
-  display:none;
-}
-.hardkor {
-  display:none;
-}
 .presentation-design {
   display: flex;
   justify-content: space-between;
@@ -343,10 +337,12 @@ a {
 .presentation-mathematics {
   display: flex;
   justify-content: space-between;
+  display:none;
 }
 .hardkor {
   display: flex;
   justify-content: space-between;
+  display:none;
 }
   
 .main-container {
