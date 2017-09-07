@@ -399,8 +399,6 @@ padding: 0;
 }
 .main-description {
   width: 700px;
-  margin-top: 80px;
-  margin-bottom: 34px;
   /*----Временно для сеток----*/
   min-height: 87px;
 }
@@ -418,8 +416,17 @@ padding: 0;
 .main-description-list li {
   margin: 36px;
 }
-  
-
+.main-description {
+   width: 332px;
+  /*----Временно для сеток----*/
+  min-height: 20px;
+  margin-top: 40px;
+}
+.table {
+ display: flex;
+ width: 360px;
+ height: 105px;
+ }
 
   
 
