@@ -415,7 +415,9 @@ padding: 0;
   /*----Временно для сеток----*/
   min-height: 160px;
 }
-
+.main-description-list li {
+  margin: 36px;
+}
   
 
 
