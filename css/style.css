@@ -384,18 +384,19 @@ padding: 0;
 .description {
   display: flex;
   width: 1160px;
-  height: 704px;
+  height: 528px;
   justify-content: space-between;
 }
 .description-blok {
   width: 660px;
+  margin-top: 77px;
   /*----Временно для сеток----*/
-   min-height: 526px;
+   min-height: 372px;
 }
 .stasticks-blok {
   width: 360px;
   /*----Временно для сеток----*/
-  min-height: 526px;
+  min-height: 372px;
 }
 .main-description {
   width: 660px;
@@ -413,7 +414,7 @@ padding: 0;
 .main-order {
   width: 429px;
   /*----Временно для сеток----*/
-  min-height: 40px;
+  min-height: 160px;
 }
 
   
