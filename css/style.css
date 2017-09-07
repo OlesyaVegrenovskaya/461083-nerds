@@ -389,15 +389,13 @@ padding: 0;
 }
 .description-blok {
   width: 700px;
-  margin-top: 77px;
-  margin-bottom: 79;
   /*----Временно для сеток----*/
-   min-height: 372px;
+   min-height: 528px;
 }
 .stasticks-blok {
   width: 360px;
   /*----Временно для сеток----*/
-  min-height: 372px;
+  min-height: 528px;
 }
 .main-description {
   width: 700px;
