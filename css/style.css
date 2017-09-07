@@ -422,7 +422,8 @@ padding: 0;
   min-height: 20px;
   margin-top: 40px;
 }
-.table {
+.main-description-data
+.main-description-text {
  display: flex;
  width: 360px;
  height: 105px;
