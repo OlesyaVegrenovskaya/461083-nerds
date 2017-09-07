@@ -397,6 +397,26 @@ padding: 0;
   /*----Временно для сеток----*/
   min-height: 526px;
 }
+.main-description {
+  width: 660px;
+  margin-top: 44px;
+  margin-bottom: 34px;
+  /*----Временно для сеток----*/
+  min-height: 87px;
+}
+.main-container-text {
+  width: 616px;
+  margin-bottom: 48px;
+   /*----Временно для сеток----*/
+   min-height: 40px;
+}
+.main-order {
+  width: 429px;
+  /*----Временно для сеток----*/
+  min-height: 40px;
+}
+
+  
 
 
   
