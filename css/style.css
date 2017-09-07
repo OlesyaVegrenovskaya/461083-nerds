@@ -381,6 +381,25 @@ padding: 0;
   width: 300px;
   height: 349px;
 }
+.description {
+  display: flex;
+  width: 1160px;
+  height: 704px;
+  justify-content: space-between;
+}
+.description-blok {
+  width: 660px;
+  /*----Временно для сеток----*/
+   min-height: 526px;
+}
+.stasticks-blok {
+  width: 360px;
+  /*----Временно для сеток----*/
+  min-height: 526px;
+}
+
+
+  
 
   
   
