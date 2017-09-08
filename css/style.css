@@ -366,8 +366,8 @@ a {
 .main-presentation a {
   display: block;
   width: 240px;
-  height: 48px;
   text-align: center;
+  padding: 20px 20px;
 }
 .main-container {
   width: 376px;
