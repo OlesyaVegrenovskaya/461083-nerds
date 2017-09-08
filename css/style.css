@@ -311,7 +311,7 @@ html, body {
 } 
 .navigation {
   display: flex;
-  width: 860;
+  width: 860px;
   margin: 0 0;
   justify-content: space-between;
 }
