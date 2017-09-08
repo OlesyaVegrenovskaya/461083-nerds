@@ -340,6 +340,15 @@ a {
   margin: 0 auto;
   padding: 0 20px;
 }
+.information {
+  width: 400px;
+  /*----Временно для сеток----*/
+  min-height: 274px;
+} 
+.image {
+  width: 698px;
+  height: 417px;
+}
 .presentation-design {
   display: flex;
   justify-content: space-between;
@@ -367,10 +376,6 @@ a {
 .information-button {
   width: 240px;
   height: 50px;
-}
-.image {
-  width: 698px;
-  height: 417px;
 }
 .advantage { 
   width: 1200px;
