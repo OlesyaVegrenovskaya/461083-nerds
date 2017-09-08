@@ -362,6 +362,7 @@ a {
 .main-container-text {
   width: 361px;
   height: 40px;
+  text-aline: center;
 }
 .information-button {
   width: 240px;
