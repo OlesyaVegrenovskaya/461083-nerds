@@ -363,7 +363,11 @@ a {
   justify-content: space-between;
   display:none;
 }
-  
+.information a {
+  width: 240px;
+  height: 48px;
+  text-aline: center;
+}
 .main-container {
   width: 376px;
   height: 65px;
