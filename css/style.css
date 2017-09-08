@@ -456,6 +456,9 @@ a {
  .main-footer img {
    width: 100%;
 }
+.wrapper {position: relative;
+}
+
 .footer-contacts {
   position: absolute;
   background: #ffffff;
@@ -464,7 +467,8 @@ a {
   top: 17px;
   left: 25px;
 }
-  
+.wrapper {position: relative;
+}
 
   
 
