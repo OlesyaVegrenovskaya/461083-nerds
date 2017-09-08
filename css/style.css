@@ -468,6 +468,8 @@ a {
   left: 25px;
 }
 .footer-social {
+  width: 1200px;
+  height: 219px;
   display: flex;
   text-aline:left;
 } 
@@ -475,6 +477,9 @@ a {
   display: flex;
   justify-content: space-between;
   }
+.text {
+  margin-left: 140px;
+}
 
   
 
