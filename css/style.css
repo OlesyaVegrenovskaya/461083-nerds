@@ -301,6 +301,7 @@ html, body {
 }  
 .main-navigation {
   display: flex;
+  width: 860px;
   justify-content: space-between;
  /*----Временно для сеток----*/
           min-height: 132px;
