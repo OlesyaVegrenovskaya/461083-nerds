@@ -304,12 +304,8 @@ html, body {
  /*----Временно для сеток----*/
           min-height: 132px;
 }
-.main-navigation-logo {
-  width: 160px;
-  height: 65px; 
+.main-navigation-logo { 
   margin-top: 45px;
-  padding-left: 20px;
-  /*----Временно для сеток----*/
 } 
   
 .sait-navigation {
