@@ -308,7 +308,10 @@ html, body {
 .main-navigation-logo { 
   margin-top: 45px;
 } 
-  
+.navigation {
+  display: flex;
+  justify-content: space-between;
+}
 .sait-navigation {
   display: flex;
   width: 560px;
