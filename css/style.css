@@ -338,7 +338,7 @@ a {
 .container { 
   width: 1200px;
   margin: 0 auto;
-  pading: 0 20px;
+  padding: 0 20px;
 }
 .presentation-design {
   display: flex;
