@@ -372,8 +372,14 @@ a {
   display: flex;
   justify-content: space-between;
 }
-.advantage-sites
-.advantage-presentation
+.advantage-sites { 
+  width: 300px;
+  height: 349px;
+}
+.advantage-presentation { 
+  width: 300px;
+  height: 349px;
+}
 .advantage-apps { 
   width: 300px;
   height: 349px;
