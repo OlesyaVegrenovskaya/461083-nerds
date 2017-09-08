@@ -453,7 +453,9 @@ a {
   height: 185px;
   text-align: center;
 }
-  
+ .wrapper img {
+   width: 100%;
+}
   
 
   
