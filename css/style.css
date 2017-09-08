@@ -364,6 +364,7 @@ a {
   display:none;
 }
 .main-presentation a {
+  display: block;
   width: 240px;
   height: 48px;
   text-align: center;
