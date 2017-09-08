@@ -285,6 +285,12 @@ li {
           display: none;
 }
 /*----Сеточные стили----*/
+
+html, body {
+  width: 1200px;
+  height: 2476px; 
+}
+  
 .main-header {
  /*----Временно для сеток----*/
           min-height: 547px;
