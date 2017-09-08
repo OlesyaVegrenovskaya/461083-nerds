@@ -467,6 +467,14 @@ a {
   top: 17px;
   left: 25px;
 }
+.footer-social {
+  display: flex;
+  text-aline:left;
+} 
+.social {
+  display: flex;
+  justify-content: space-between;
+  }
 
   
 
