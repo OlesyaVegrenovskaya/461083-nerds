@@ -317,8 +317,6 @@ html, body {
   width: 560px;
   margin: 0;
   margin-top: 80px;
-  margin-left: 140px;
-  padding: 0;
   justify-content: space-between;
   
   list-style: none;
@@ -329,8 +327,6 @@ html, body {
   width: 180px;
   margin: 0;
   margin-top: 80px;
-  margin-left: 140px;
-  padding: 0;
   
   list-style: none;
   /*----Временно для сеток----*/
