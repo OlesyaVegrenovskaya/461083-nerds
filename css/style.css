@@ -492,6 +492,17 @@ a {
   text-align: center;
   margin-bottom: 120px;
 }
+.market {
+  display: flex;
+  justify-content: space-between;
+  }
+.filters {
+  width: 300px;
+  height: 180px;
+}
+.template-main {
+   width: 800px;
+  height: 2047px;
   
   
   
