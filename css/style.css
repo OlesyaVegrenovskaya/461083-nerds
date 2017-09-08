@@ -502,6 +502,10 @@ a {
 .template-main {
    width: 800px;
   height: 2047px;
+}
+.template-list {
+ display: flex;
+  } 
   
   
   
