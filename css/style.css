@@ -472,6 +472,7 @@ a {
   height: 219px;
   display: flex;
   text-aline:left;
+  margin-top: 70px;
 } 
 .social {
   display: flex;
