@@ -363,10 +363,10 @@ a {
   justify-content: space-between;
   display:none;
 }
-.bottom-information {
+.main-presentation a {
   width: 240px;
   height: 48px;
-  text-aline: center;
+  text-align: center;
 }
 .main-container {
   width: 376px;
