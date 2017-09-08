@@ -494,7 +494,6 @@ a {
 }
 .market {
   display: flex;
-  justify-content: space-between;
   }
 .filtres {
   width: 300px;
