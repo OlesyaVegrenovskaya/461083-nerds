@@ -614,11 +614,16 @@ html, body {
   margin-left: 48px;
 }
 .name {
+  display: block;
   margin-bottom: 35px;
 }
 .adress {
+  display: block;
   margin-bottom: 20px;
 }
+.phone {
+  display: block;
+} 
 .contacs-button {
   display: block;
   width: 220px;
