@@ -537,7 +537,7 @@ html, body {
 {display:flex;
  justify-content: space-between;
 }
-  .advertising {
+  .advertising-list {
   width: 260px;
   height: 185px;
   text-align: center;
