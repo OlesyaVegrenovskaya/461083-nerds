@@ -619,9 +619,18 @@ html, body {
   display: block;
   width: 220px;
   height: 50px;
+  text-align: center;
 }
-  
-  
+.footer-contacts a:hover { 
+                      color:#ffffff;
+                        
+                      background-color: #e74246;
+}
+.footer-contacts a:focus { 
+                      color:#e37376;
+                        
+                      background-color: #d7373b;
+}
   
 
   
