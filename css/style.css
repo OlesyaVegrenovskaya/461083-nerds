@@ -314,7 +314,7 @@ html, body {
 .main-navigation-logo { 
   margin-top: 50px;
 } 
-.main-navigation-logo a:focus {
+.main-navigation a:focus {
   color: #a6a6a6;
 }
 .navigation {
