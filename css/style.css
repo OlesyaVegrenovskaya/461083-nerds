@@ -616,11 +616,9 @@ html, body {
 }
 .name {
   display: block;
-  margin-bottom: 35px;
 }
 .adress {
   display: block;
-  margin-bottom: 20px;
 }
 .phone {
   display: block;
