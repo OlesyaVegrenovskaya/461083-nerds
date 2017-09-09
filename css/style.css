@@ -541,8 +541,7 @@ html, body {
 }
 .main-advertising {
   display:flex;
-  display: center;
-  justify-content: center;
+  justify-content: space-between;
   margin: 0px;
   padding: 0px;
 }
@@ -550,7 +549,9 @@ html, body {
     width: 260px;
     height: 185px;
     opacity: 0.2;
-}
+    display:center;
+    justify-content: center;
+ }
  .main-footer img {
    width: 100%;
 }
