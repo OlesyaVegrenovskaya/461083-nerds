@@ -171,7 +171,12 @@ li {
               font-weight:700;
               text-transform: uppercase;
 }
+
 .advantage-sites button { 
+                      width: 160px;
+                      height: 52px;
+                      border-style: none;
+                      text-aline: center;
                       font-size: 16px;
                       line-height: 24px;
                       color: #ffffff;
@@ -190,6 +195,10 @@ li {
                             background-color: #d7373b;
 } 
 .advantage-apps button {
+                      width: 160px;
+                      height: 52px;
+                      border-style: none;
+                      text-aline: center;
                       font-size: 16px;
                       line-height: 24px;
                       color: #ffffff;
@@ -210,6 +219,10 @@ li {
 }
 
 .advantage-presentation button {
+                      width: 160px;
+                      height: 52px;
+                      border-style: none;
+                      text-aline: center;
                       font-size: 16px;
                       line-height: 24px;
                       color: #ffffff;
