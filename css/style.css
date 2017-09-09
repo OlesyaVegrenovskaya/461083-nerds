@@ -439,6 +439,7 @@ html, body {
 }
 .main-description-list {
   width: 460px;
+  margin-top: 0;
 }  
 .information-button {
   width: 240px;
