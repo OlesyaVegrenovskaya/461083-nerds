@@ -483,9 +483,6 @@ html, body {
   /*----Временно для сеток----*/
   min-height: 160px;
 }
-.main-description-list li {
-  margin-top: 36px;
-}
 .main-description {
    width: 332px;
   /*----Временно для сеток----*/
