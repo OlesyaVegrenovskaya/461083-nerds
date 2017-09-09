@@ -331,6 +331,7 @@ html, body {
   text-align: right;
 }
 .basket-navigation {
+  display: flex;
   width: 180px;
   margin: 0;
   padding: 0;
