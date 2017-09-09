@@ -318,7 +318,7 @@ html, body {
 .main-navigation-logo { 
   margin-top: 50px;
 } 
-.main-navigation-logo:focus {
+.main-navigation-logo: active {
   color: #a6a6a6;
 }
 .navigation {
