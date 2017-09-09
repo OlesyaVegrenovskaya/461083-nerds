@@ -621,6 +621,7 @@ html, body {
   height: 50px;
   text-align: center;
   border-radius: 5px;
+  padding-top: 27px;
 }
 .footer-contacts a:hover { 
                       color:#ffffff;
