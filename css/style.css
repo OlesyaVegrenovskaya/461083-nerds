@@ -461,13 +461,11 @@ html, body {
 }
 .description-blok {
   width: 700px;
-  /*----Временно для сеток----*/
-   min-height: 528px;
+  margin-bottom: 80px; 
 }
 .stasticks-blok {
   width: 360px;
-  /*----Временно для сеток----*/
-  min-height: 528px;
+  margin-bottom: 80px; 
 }
 .main-description {
   width: 700px;
