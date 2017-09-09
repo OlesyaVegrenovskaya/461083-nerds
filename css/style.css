@@ -420,6 +420,7 @@ html, body {
   height: 508px;
 }  
 .main-advantage {
+  width: 1100;
   margin: 0;
   padding: 0;
   display: flex;
