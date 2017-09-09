@@ -536,6 +536,8 @@ html, body {
 .main-advertising
 {display:flex;
  justify-content: space-between;
+  margin: 0px;
+  padding: 0px;
 }
   .advertising-list {
   width: 260px;
