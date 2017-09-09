@@ -337,9 +337,11 @@ html, body {
   padding: 0;
   margin-top: 83px;
   list-style: none;
-   justify-content: space-between;
   /*----Временно для сеток----*/
   min-height: 114px;
+}
+.basket-img {
+  padding-left: 45px;
 }
 .presentation {
   margin: 0;
