@@ -571,9 +571,11 @@ html, body {
   margin-top: 70px;
 } 
 .social {
+  width: 260px;
+  height: 80px;
   display: flex;
   justify-content: space-between;
-  }
+   }
 .text {
   margin-left: 140px;
 }
