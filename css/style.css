@@ -43,7 +43,8 @@ li {
 .basket-navigation a:focus {
                     color: #bababa;
 }
-.sait-navigation a:active::after {
+.sait-navigation a:active::after 
+.basket-navigation a:active::after{
             display: block;
             content: '';
             width: 100%;
