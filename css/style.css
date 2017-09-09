@@ -548,9 +548,10 @@ html, body {
   .advertising-list {
     width: 260px;
     height: 185px;
-    opacity: 0.2;
+    opacity: 0.5;
     display:center;
     justify-content: center;
+    align-items: center;
  }
  .main-footer img {
    width: 100%;
