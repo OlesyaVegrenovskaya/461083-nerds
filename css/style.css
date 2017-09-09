@@ -489,10 +489,6 @@ html, body {
    /*----Временно для сеток----*/
    min-height: 45px;
 }
-.main-container-text li {
-  margin: 0;
-  padding: 0;
-}
 .main-order {
   width: 429px;
   /*----Временно для сеток----*/
