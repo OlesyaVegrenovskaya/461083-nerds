@@ -580,6 +580,8 @@ html, body {
   justify-content: space-between;
    }
 .social li { 
+  margin: 0;
+  padding: 0;
   display: inline-flex;
   width: 80px;
   height: 80px;
