@@ -160,6 +160,10 @@ li {
                         
                       background-color: #d7373b;
 }
+.advantage {
+  margin: 0;
+  padding: 0;
+}
 .advantage-main { 
               font-size: 24px;
               line-height: 30px;
