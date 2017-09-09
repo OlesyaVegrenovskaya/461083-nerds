@@ -484,7 +484,7 @@ html, body {
   min-height: 160px;
 }
 .main-description-list li {
-  margin: 36px;
+  margin-top: 36px;
 }
 .main-description {
    width: 332px;
