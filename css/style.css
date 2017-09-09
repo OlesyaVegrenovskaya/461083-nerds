@@ -603,6 +603,17 @@ html, body {
   margin-top: 40px;
   margin-left: 48px;
 }
+.name {
+  margin-bottom: 35px;
+}
+.adress {
+  margin-bottom: 20px;
+}
+.contacs-button {
+  display: block;
+  width: 220px;
+  height: 50px;
+}
   
   
   
