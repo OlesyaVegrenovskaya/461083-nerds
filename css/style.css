@@ -434,6 +434,9 @@ html, body {
   height: 45px;
   text-aline: center;
 }
+.main-container-list {
+  margin: 30px;
+}
 .main-description-list {
   width: 460px;
 }  
