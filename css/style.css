@@ -549,7 +549,7 @@ html, body {
     width: 260px;
     height: 185px;
     opacity: 0.5;
-    display:center;
+    display:flex;
     justify-content: center;
     align-items: center;
  }
