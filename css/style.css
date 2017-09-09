@@ -524,12 +524,12 @@ html, body {
  }
 
 .description-percent {
-  width: 100px;
-  height: 40px;
+  width: 120px;
+  height: 50px;
 }
 .description-tabl {
-  width: 111px;
-  height: 40px;
+  width: 120px;
+  height: 50px;
 }
 .main-advertising
 {display:flex;
