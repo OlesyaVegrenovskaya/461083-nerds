@@ -606,6 +606,7 @@ html, body {
   text-aline: center;
 }
 .contacts {
+  display: block;
   margin-top: 53px;
   margin-left: 48px;
 }
