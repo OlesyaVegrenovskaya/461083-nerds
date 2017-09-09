@@ -520,8 +520,7 @@ html, body {
 .main-description-data {
  display: flex;
  flex-wrap: wrap;
- width: 360px;
- height: 105px;
+ margin:0;
  }
 
 .description-percent {
