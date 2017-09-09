@@ -14,8 +14,7 @@ li {
   list-style-type: none;
 }
 hr {
-  margin: 0;
-  padding: 0;
+  opacity: 0.2;
 }
 .main-header {
   background-color: #eeeeee;
@@ -542,14 +541,15 @@ html, body {
 }
 .main-advertising {
   display:flex;
-  text-align: center;
+  display: center;
   justify-content: center;
   margin: 0px;
   padding: 0px;
 }
   .advertising-list {
-  width: 260px;
-  height: 185px;
+    width: 260px;
+    height: 185px;
+    opacity: 0.2;
 }
  .main-footer img {
    width: 100%;
