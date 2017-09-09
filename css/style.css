@@ -461,11 +461,11 @@ html, body {
 }
 .description-blok {
   width: 700px;
-  margin-bottom: 80px; 
+  margin-top: 80px; 
 }
 .stasticks-blok {
   width: 360px;
-  margin-bottom: 80px; 
+  margin-top: 40px; 
 }
 .main-description {
   width: 700px;
