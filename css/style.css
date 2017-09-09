@@ -456,7 +456,7 @@ html, body {
 .description {
   display: flex;
   width: 1160px;
-  height: 528px;
+  height: 530px;
   justify-content: space-between;
 }
 .description-blok {
