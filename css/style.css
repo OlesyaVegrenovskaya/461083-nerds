@@ -297,6 +297,10 @@ hr {
        color: #666666;
        font-weight:normal;
 }
+.phone {
+     color: #666666;
+     text-decoration: none;
+}
 .button {
        font-size: 16px;
        line-height: 18px;
