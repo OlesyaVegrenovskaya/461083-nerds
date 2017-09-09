@@ -434,6 +434,9 @@ html, body {
   height: 45px;
   text-aline: center;
 }
+.main-description-list {
+  width: 460px;
+}  
 .information-button {
   width: 240px;
   height: 50px;
