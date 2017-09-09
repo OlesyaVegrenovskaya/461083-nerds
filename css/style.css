@@ -13,6 +13,10 @@ a {
 li {
   list-style-type: none;
 }
+hr {
+  margin: 0;
+  padding: 0;
+}
 .main-header {
   background-color: #eeeeee;
 }
@@ -421,7 +425,7 @@ html, body {
 }
 .main-container-text {
   width: 361px;
-  height: 40px;
+  height: 45px;
   text-aline: center;
 }
 .information-button {
@@ -474,8 +478,10 @@ html, body {
 }
 .main-container-text {
   width: 700px;
+  margin-top: 40px;
+  margin-bottom: 45px;
    /*----Временно для сеток----*/
-   min-height: 40px;
+   min-height: 45px;
 }
 .main-order {
   width: 429px;
