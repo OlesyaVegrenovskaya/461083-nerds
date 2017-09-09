@@ -540,9 +540,9 @@ html, body {
   width: 120px;
   height: 50px;
 }
-.main-advertising
-{display:flex;
- justify-content: space-between;
+.main-advertising {
+  display:flex;
+  justify-content: space-between;
   margin: 0px;
   padding: 0px;
 }
@@ -550,6 +550,7 @@ html, body {
   width: 260px;
   height: 185px;
   text-align: center;
+  justify-content: center;
 }
  .main-footer img {
    width: 100%;
