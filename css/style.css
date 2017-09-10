@@ -670,7 +670,7 @@ html, body {
    height: 80px;
    margin-bottom: 15px;
    padding:0 30px;
-   backgroud:#f1f1f1;
+   background:#f1f1f1;
    border-radius: 5px;
    overflow: hidden;
    }
@@ -678,7 +678,7 @@ html, body {
    .range-controls .scale { 
    margin-top: 39px;
    height: 2px;
-   backgroud: #d7dcde;
+   background: #d7dcde;
    }
    .range-controls .bar {
    height: 2px;
@@ -687,7 +687,7 @@ html, body {
    .range-controls .toggle {
    position: absolute;
    top: 30px;
-   left: 0px;
+   left: 30px;
    width: 4px;
    height: 4px;
    border: 8px solid white;
